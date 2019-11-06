@@ -1,4 +1,7 @@
 # py360convert
+## to test the modules individually
+Change the branch from 'master' to "details" branch <br>
+execution details will be on the "details" branch readme.
 
 Features of this project:
 - Convertion between cubemap and equirectangular  
